@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+node_modules/
+dist/
+build/
+*.zip
+*.tar.gz
+.DS_Store
